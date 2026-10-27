@@ -5,7 +5,7 @@
 # Content pages remain independent Markdown files inside content/.
 
 name = "Jeff Venable"
-title = "PhD Student in Applied Mathematics"
+title = "PhD Student in Mathematics"
 institution = "Your University"
 department = "Department of Mathematics"
 email = "you@university.edu"
