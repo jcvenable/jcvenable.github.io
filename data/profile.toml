@@ -4,7 +4,7 @@
 # Site-wide identity, links, appearance, and feature switches live here.
 # Content pages remain independent Markdown files inside content/.
 
-name = "Your Name"
+name = "Jeff Venable"
 title = "PhD Student in Applied Mathematics"
 institution = "Your University"
 department = "Department of Mathematics"
