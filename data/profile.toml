@@ -6,10 +6,10 @@
 
 name = "Jeff Venable"
 title = "PhD Student in Mathematics"
-institution = "Your University"
+institution = "North Carolina State University"
 department = "Department of Mathematics"
 email = "you@university.edu"
-location = "City, State"
+location = "Raleigh, NC"
 avatar = "images/avatar.svg"
 avatar_alt = "Profile portrait"
 
@@ -17,8 +17,8 @@ avatar_alt = "Profile portrait"
 about = "I am a graduate student interested in applied mathematics and scientific computing. My work focuses on developing scalable computational methods for challenging problems in science and engineering."
 
 education = [
-  "Ph.D. in Applied Mathematics, Your University (expected 20XX)",
-  "M.S. in Mathematics, Previous University (20XX)"
+  "Ph.D. in Mathematics, North Carolina State University (expected 2029)",
+  "M.S. in Mathematics, North Carolina State University (2026)"
 ]
 
 research_interests = [
